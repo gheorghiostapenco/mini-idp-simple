@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: my-first-service # Название в вашей платформе
-  description:test-service
+  description: test-service
   annotations:
     github.com/project-slug: gheorghiostapenco/mini-idp-simple
 spec:
